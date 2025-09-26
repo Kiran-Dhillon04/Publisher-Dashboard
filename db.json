@@ -1,0 +1,41 @@
+{
+  "portfolio": [
+    { "id": 1, "name": "Cisco", "logo": "assets/images/Cisco_logo.svg" },
+    { "id": 2, "name": "JAMF", "logo": "assets/images/jamf-ar21.svg" },
+    { "id": 3, "name": "JetBrains", "logo": "https://logo.clearbit.com/jetbrains.com" }
+  ],
+  "nonConnected": [
+    { "id": 4, "name": "Adobe", "logo": "https://logo.clearbit.com/adobe.com" },
+    { "id": 5, "name": "Arctic Wolf Networks", "logo": "https://www.pngkey.com/png/detail/142-1425547_arctic-wolf-networks-logo.png" },
+    { "id": 6, "name": "Autodesk", "logo": "https://logo.clearbit.com/autodesk.com" },
+    { "id": 7, "name": "Bluebeam Software", "logo": "https://press.bluebeam.com/wp-content/uploads/2022/06/Group-614.png" },
+    { "id": 8, "name": "Citrix", "logo": "https://logo.clearbit.com/citrix.com" }
+  ],
+  "supported": [
+    { "id": 9, "name": "Adobe", "logo": "https://logo.clearbit.com/adobe.com" },
+    { "id": 10, "name": "Arctic Wolf Networks", "logo": "https://logo.clearbit.com/arcticwolf.com" },
+    { "id": 11, "name": "Autodesk", "logo": "https://logo.clearbit.com/autodesk.com" },
+    { "id": 12, "name": "Bluebeam Software", "logo": "https://press.bluebeam.com/wp-content/uploads/2022/06/Group-614.png" },
+    { "id": 13, "name": "Citrix", "logo": "https://logo.clearbit.com/citrix.com" },
+    { "id": 14, "name": "Coreview", "logo": "https://logo.clearbit.com/coreview.com" },
+    { "id": 15, "name": "Fortinet", "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Fortinet_Logo.png" },
+    { "id": 16, "name": "Foxit", "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Foxit_logo.png" },
+    { "id": 17, "name": "Google", "logo": "https://logo.clearbit.com/google.com" },
+    { "id": 18, "name": "Office Timeline", "logo": "https://logo.clearbit.com/officetimeline.com" },
+    { "id": 19, "name": "Okta", "logo": "https://logo.clearbit.com/okta.com" },
+    { "id": 20, "name": "Palo Alto Networks", "logo": "assets/images/62c6bf36eee9410fe137d928.png"},
+    { "id": 21, "name": "ProofPoint", "logo": "https://logo.clearbit.com/proofpoint.com" },
+    { "id": 22, "name": "Quest", "logo": "https://logo.clearbit.com/quest.com" },
+    { "id": 23, "name": "Red Hat", "logo": "https://logo.clearbit.com/redhat.com" },
+    { "id": 24, "name": "Rubrik", "logo": "https://logo.clearbit.com/rubrik.com" },
+    { "id": 25, "name": "SolarWinds", "logo": "https://logo.clearbit.com/solarwinds.com" },
+    { "id": 26, "name": "SysAid", "logo": "https://logo.clearbit.com/sysaid.com" },
+    { "id": 27, "name": "TechSmith", "logo": "https://logo.clearbit.com/techsmith.com" },
+    { "id": 28, "name": "Thales Group", "logo": "https://logo.clearbit.com/thalesgroup.com" },
+    { "id": 29, "name": "Trend Micro", "logo": "https://logo.clearbit.com/trendmicro.com" },
+    { "id": 30, "name": "Veeam", "logo": "https://logo.clearbit.com/veeam.com" },
+    { "id": 31, "name": "Veritas", "logo": "https://logo.clearbit.com/veritas.com" },
+    { "id": 32, "name": "VMware", "logo": "https://logo.clearbit.com/vmware.com" },
+    { "id": 33, "name": "Zoho", "logo": "https://logo.clearbit.com/zoho.com" }
+  ]
+}
